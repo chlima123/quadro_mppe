@@ -2,10 +2,10 @@
 import streamlit as st
 
 BASES_DADOS = {
-    "1a Entrancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-1-entrancia-3?download=true",
-    "2a Entrancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-2-entrancia-1?download=true",
-    "3a Entrancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-3-entrancia-3?download=true",
-    "2a Instancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-2-instancia-1?download=true",
+    "1a Entrancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-1-entrancia?download=true",
+    "2a Entrancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-2-entrancia?download=true",
+    "3a Entrancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-3-entrancia?download=true",
+    "2a Instancia": "https://portal.mppe.mp.br/documents/d/guest/quadro-geral-membros-mppe-oficial-2-instancia?download=true",
 }
 COLUNAS_FILTRO = ["Circunscricao", "Municipio", "Atuacao", "Atribuicao"]
 COLUNAS_SAIDA = ["Circunscricao", "Municipio", "Cargo", "Atribuicao", "Atuacao", "Promotor de Justica"]
